@@ -13,4 +13,7 @@ public class demo {
     public void method1(){
 
     }
+    public void mehod2(){
+
+    }
 }
