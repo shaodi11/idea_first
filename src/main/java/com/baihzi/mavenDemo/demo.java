@@ -9,6 +9,8 @@ public class demo {
     }
     public void method(){
         System.out.println("this is my method");
+         System.out.println("this is method");
+
     }
     public void method1(){
         System.out.println("this is method1");
