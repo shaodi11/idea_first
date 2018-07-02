@@ -10,4 +10,7 @@ public class demo {
     public void method(){
 
     }
+    public void method1(){
+
+    }
 }
