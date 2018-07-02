@@ -14,6 +14,6 @@ public class demo {
         System.out.println("this is method1");
     }
     public void mehod2(){
-
+        System.out.println("this is method2");
     }
 }
