@@ -8,6 +8,7 @@ public class demo {
         System.out.println("main yes!");
     }
     public void method(){
+         System.out.println("this is method");
 
     }
     public void method1(){
