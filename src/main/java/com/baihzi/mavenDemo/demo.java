@@ -7,4 +7,7 @@ public class demo {
     public  void  main(String[] args){
         System.out.println("main yes!");
     }
+    public void method(){
+
+    }
 }
